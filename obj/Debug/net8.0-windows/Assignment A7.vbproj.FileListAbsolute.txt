@@ -1,0 +1,17 @@
+C:\Users\Jaden Torres\source\repos\Assignment A7\bin\Debug\net8.0-windows\Assignment A7.exe
+C:\Users\Jaden Torres\source\repos\Assignment A7\bin\Debug\net8.0-windows\Assignment A7.deps.json
+C:\Users\Jaden Torres\source\repos\Assignment A7\bin\Debug\net8.0-windows\Assignment A7.runtimeconfig.json
+C:\Users\Jaden Torres\source\repos\Assignment A7\bin\Debug\net8.0-windows\Assignment A7.dll
+C:\Users\Jaden Torres\source\repos\Assignment A7\bin\Debug\net8.0-windows\Assignment A7.pdb
+C:\Users\Jaden Torres\source\repos\Assignment A7\obj\Debug\net8.0-windows\Assignment_A7.Form1.resources
+C:\Users\Jaden Torres\source\repos\Assignment A7\obj\Debug\net8.0-windows\Assignment_A7.Resources.resources
+C:\Users\Jaden Torres\source\repos\Assignment A7\obj\Debug\net8.0-windows\Assignment A7.vbproj.GenerateResource.cache
+C:\Users\Jaden Torres\source\repos\Assignment A7\obj\Debug\net8.0-windows\Assignment A7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaden Torres\source\repos\Assignment A7\obj\Debug\net8.0-windows\Assignment A7.AssemblyInfoInputs.cache
+C:\Users\Jaden Torres\source\repos\Assignment A7\obj\Debug\net8.0-windows\Assignment A7.AssemblyInfo.vb
+C:\Users\Jaden Torres\source\repos\Assignment A7\obj\Debug\net8.0-windows\Assignment A7.vbproj.CoreCompileInputs.cache
+C:\Users\Jaden Torres\source\repos\Assignment A7\obj\Debug\net8.0-windows\Assignment A7.dll
+C:\Users\Jaden Torres\source\repos\Assignment A7\obj\Debug\net8.0-windows\refint\Assignment A7.dll
+C:\Users\Jaden Torres\source\repos\Assignment A7\obj\Debug\net8.0-windows\Assignment A7.pdb
+C:\Users\Jaden Torres\source\repos\Assignment A7\obj\Debug\net8.0-windows\Assignment A7.genruntimeconfig.cache
+C:\Users\Jaden Torres\source\repos\Assignment A7\obj\Debug\net8.0-windows\ref\Assignment A7.dll
